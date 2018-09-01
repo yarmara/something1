@@ -1,2 +1,2 @@
 print "Goodbay world!"
-finish!
+print "finish!"
